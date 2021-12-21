@@ -8,7 +8,7 @@
 * [Credits](#credits)
 
 ## General Info
-This project is a combination of Custom Pass effects within Unity's HDRP with the goal of using the effects of compressing data for cloud based gaming.
+This project is a combination of Custom Pass effects within Unity's HDRP with the goal of using the effects for compressing data for cloud based gaming.
 	
 ## Technologies
 Project is created with:

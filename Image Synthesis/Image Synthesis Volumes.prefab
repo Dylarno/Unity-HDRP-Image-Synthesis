@@ -48,14 +48,14 @@ MonoBehaviour:
   fadeRadius: 0
   priority: 0
   customPasses:
-  - rid: 4607989930689298439
+  - rid: 7325321421473448037
   injectionPoint: 2
   m_TargetCamera: {fileID: 0}
   useTargetCamera: 0
   references:
     version: 2
     RefIds:
-    - rid: 4607989930689298439
+    - rid: 7325321421473448037
       type: {class: RenderMotionVectors, ns: , asm: Assembly-CSharp}
       data:
         m_Name: Custom Pass
@@ -117,14 +117,14 @@ MonoBehaviour:
   fadeRadius: 0
   priority: 0
   customPasses:
-  - rid: 4607989916906291371
+  - rid: 7325321421473448036
   injectionPoint: 2
   m_TargetCamera: {fileID: 0}
   useTargetCamera: 0
   references:
     version: 2
     RefIds:
-    - rid: 4607989916906291371
+    - rid: 7325321421473448036
       type: {class: CopyPass, ns: , asm: Assembly-CSharp}
       data:
         m_Name: Custom Pass
@@ -186,14 +186,14 @@ MonoBehaviour:
   fadeRadius: 0
   priority: 0
   customPasses:
-  - rid: 4607989916906291375
+  - rid: 7325321421473448038
   injectionPoint: 2
   m_TargetCamera: {fileID: 0}
   useTargetCamera: 0
   references:
     version: 2
     RefIds:
-    - rid: 4607989916906291375
+    - rid: 7325321421473448038
       type: {class: CopyPass, ns: , asm: Assembly-CSharp}
       data:
         m_Name: Custom Pass
@@ -255,14 +255,14 @@ MonoBehaviour:
   fadeRadius: 0
   priority: 0
   customPasses:
-  - rid: 4607989916906291373
+  - rid: 7325321421473448044
   injectionPoint: 2
   m_TargetCamera: {fileID: 0}
   useTargetCamera: 0
   references:
     version: 2
     RefIds:
-    - rid: 4607989916906291373
+    - rid: 7325321421473448044
       type: {class: CopyPass, ns: , asm: Assembly-CSharp}
       data:
         m_Name: Custom Pass
@@ -324,14 +324,14 @@ MonoBehaviour:
   fadeRadius: 0
   priority: 0
   customPasses:
-  - rid: 4607989941831729193
+  - rid: 7325321421473448039
   injectionPoint: 2
   m_TargetCamera: {fileID: 0}
   useTargetCamera: 0
   references:
     version: 2
     RefIds:
-    - rid: 4607989941831729193
+    - rid: 7325321421473448039
       type: {class: CopyPass, ns: , asm: Assembly-CSharp}
       data:
         m_Name: Custom Pass
@@ -356,7 +356,7 @@ GameObject:
   - component: {fileID: 8543441188311501213}
   - component: {fileID: 8543441188311501212}
   - component: {fileID: 8543441188311501215}
-  m_Layer: 12
+  m_Layer: 10
   m_Name: Object Segmentation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -394,14 +394,14 @@ MonoBehaviour:
   fadeRadius: 0
   priority: 0
   customPasses:
-  - rid: 4607989916906291384
+  - rid: 7325321421473448045
   injectionPoint: 3
   m_TargetCamera: {fileID: 0}
   useTargetCamera: 0
   references:
     version: 2
     RefIds:
-    - rid: 4607989916906291384
+    - rid: 7325321421473448045
       type: {class: ObjectSegmentationCustomPass, ns: , asm: Assembly-CSharp}
       data:
         m_Name: Custom Pass
@@ -524,14 +524,14 @@ MonoBehaviour:
   fadeRadius: 0
   priority: 0
   customPasses:
-  - rid: 4607989916906291376
+  - rid: 7325321421473448041
   injectionPoint: 2
   m_TargetCamera: {fileID: 0}
   useTargetCamera: 0
   references:
     version: 2
     RefIds:
-    - rid: 4607989916906291376
+    - rid: 7325321421473448041
       type: {class: CopyPass, ns: , asm: Assembly-CSharp}
       data:
         m_Name: Custom Pass

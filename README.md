@@ -26,7 +26,7 @@ To make use of these Custom Pass effects, this project has been created in a fas
 ![depth](https://github.com/Dylarno/Unity-HDRP-Image-Synthesis/blob/main/GIFs/depth.gif)
 
 ### Roughness
-![roughness](https://github.com/Dylarno/Unity-HDRP-Image-Synthesis/blob/main/GIFs/roughness.gif)
+![roughness](https://github.com/Dylarno/Unity-HDRP-Image-Synthesis/blob/main/GIFs/rough.gif)
 
 ### Object Segmentation
 ![object segmentation](https://github.com/Dylarno/Unity-HDRP-Image-Synthesis/blob/main/GIFs/objectID.gif)

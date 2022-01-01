@@ -20,15 +20,22 @@ Project is created with:
 To make use of these Custom Pass effects, this project has been created in a fashion that allows for quick implementation in to any project.
 
 ## Features
+
+### Sample Scene
 ![default](https://github.com/Dylarno/Unity-HDRP-Image-Synthesis/blob/main/GIFs/color.gif)
+
+### Object Normals
+![normals](https://github.com/Dylarno/Unity-HDRP-Image-Synthesis/blob/main/GIFs/normalmap.gif)
 
 ### Depth
 ![depth](https://github.com/Dylarno/Unity-HDRP-Image-Synthesis/blob/main/GIFs/depth.gif)
 
-### Roughness
+### Roughness:
+Perceptual roughness from the camera's normal buffer
 ![roughness](https://github.com/Dylarno/Unity-HDRP-Image-Synthesis/blob/main/GIFs/rough.gif)
 
-### Object Segmentation
+### Object Segmentation:
+Gives a unique colour to each object within the scene based on their ID
 ![object segmentation](https://github.com/Dylarno/Unity-HDRP-Image-Synthesis/blob/main/GIFs/objectID.gif)
 
 ### Optical Flow

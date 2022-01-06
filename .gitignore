@@ -28,6 +28,9 @@ ExportedObj/
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
+GIFs.meta
+LICENSE.meta
+README.md.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
@@ -35,3 +38,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Image Synthesis/Render Textures/Roughness.renderTexture
+Image Synthesis/Render Textures/Optical Flow.renderTexture
+Image Synthesis/Render Textures/Object Segmentation.renderTexture
+Image Synthesis/Render Textures/Normal.renderTexture
+Image Synthesis/Render Textures/Motion Vectors.renderTexture
+Image Synthesis/Render Textures/Depth.renderTexture
+Image Synthesis/Render Textures/Default.renderTexture
